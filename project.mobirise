@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Ruben Esveld",
+    "name": "Ruben | CV",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -58,7 +58,7 @@
     },
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/909314-128x128.png",
     "mbrsiteDomain": "m3krsropvk",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -70,8 +70,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ruben Esveld",
+        "meta_descr": "Ik wil graag bijdragen aan een veilige en welvarende samenleving.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
